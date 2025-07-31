@@ -8,4 +8,4 @@ No part of this repository may be copied, reproduced, modified, distributed, or 
 
 Unauthorized access or use is strictly prohibited and may result in legal action. If you have accessed this content without permission, please delete all copies immediately and notify the author.
 
-**Author: Muhammad Saad <mariamshahabi03@gmail.com>**
+**Author: Mariam Shahabi <mariamshahabi03@gmail.com>**
